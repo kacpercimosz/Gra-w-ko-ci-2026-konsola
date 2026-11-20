@@ -1,0 +1,14 @@
+C:\Users\kcimosz\source\repos\GraWKosci2026_Konsola\GraWKosci2026_Konsola\bin\Debug\net10.0\GraWKosci2026_Konsola.exe
+C:\Users\kcimosz\source\repos\GraWKosci2026_Konsola\GraWKosci2026_Konsola\bin\Debug\net10.0\GraWKosci2026_Konsola.deps.json
+C:\Users\kcimosz\source\repos\GraWKosci2026_Konsola\GraWKosci2026_Konsola\bin\Debug\net10.0\GraWKosci2026_Konsola.runtimeconfig.json
+C:\Users\kcimosz\source\repos\GraWKosci2026_Konsola\GraWKosci2026_Konsola\bin\Debug\net10.0\GraWKosci2026_Konsola.dll
+C:\Users\kcimosz\source\repos\GraWKosci2026_Konsola\GraWKosci2026_Konsola\bin\Debug\net10.0\GraWKosci2026_Konsola.pdb
+C:\Users\kcimosz\source\repos\GraWKosci2026_Konsola\GraWKosci2026_Konsola\obj\Debug\net10.0\GraWKosci2026_Konsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kcimosz\source\repos\GraWKosci2026_Konsola\GraWKosci2026_Konsola\obj\Debug\net10.0\GraWKosci2026_Konsola.AssemblyInfoInputs.cache
+C:\Users\kcimosz\source\repos\GraWKosci2026_Konsola\GraWKosci2026_Konsola\obj\Debug\net10.0\GraWKosci2026_Konsola.AssemblyInfo.cs
+C:\Users\kcimosz\source\repos\GraWKosci2026_Konsola\GraWKosci2026_Konsola\obj\Debug\net10.0\GraWKosci2026_Konsola.csproj.CoreCompileInputs.cache
+C:\Users\kcimosz\source\repos\GraWKosci2026_Konsola\GraWKosci2026_Konsola\obj\Debug\net10.0\GraWKosci2026_Konsola.dll
+C:\Users\kcimosz\source\repos\GraWKosci2026_Konsola\GraWKosci2026_Konsola\obj\Debug\net10.0\refint\GraWKosci2026_Konsola.dll
+C:\Users\kcimosz\source\repos\GraWKosci2026_Konsola\GraWKosci2026_Konsola\obj\Debug\net10.0\GraWKosci2026_Konsola.pdb
+C:\Users\kcimosz\source\repos\GraWKosci2026_Konsola\GraWKosci2026_Konsola\obj\Debug\net10.0\GraWKosci2026_Konsola.genruntimeconfig.cache
+C:\Users\kcimosz\source\repos\GraWKosci2026_Konsola\GraWKosci2026_Konsola\obj\Debug\net10.0\ref\GraWKosci2026_Konsola.dll
